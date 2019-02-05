@@ -1,0 +1,208 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc11               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc12               { /* Common */
+	border          :   0.00pt solid #000000;
+	}
+img#e26             { /* banner3.jpg */
+	position        : absolute;
+	left            :  84.75pt;
+	top             :   4.50pt;
+	width           : 490.50pt;
+	height          :  87.75pt;
+	}
+span#e25            { /* menu.jpg */
+	background      : transparent url(menu.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  94.50pt;
+	width           : 209.25pt;
+	height          : 288.00pt;
+	}
+img#e24             { /* samplepuzzles.jpg */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 119.25pt;
+	width           : 132.75pt;
+	height          :  18.00pt;
+	}
+img#e23             { /* centercounter.jpg */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 164.25pt;
+	width           : 172.50pt;
+	height          :  16.50pt;
+	}
+img#e22             { /* brentano.jpg */
+	position        : absolute;
+	left            :  16.50pt;
+	top             : 183.75pt;
+	width           : 115.50pt;
+	height          :  18.00pt;
+	}
+img#e21             { /* halloween.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 228.00pt;
+	width           : 124.50pt;
+	height          :  17.25pt;
+	}
+img#e20             { /* latvian.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 205.50pt;
+	width           : 167.25pt;
+	height          :  19.50pt;
+	}
+img#e19             { /* database.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 273.00pt;
+	width           : 105.75pt;
+	height          :  15.75pt;
+	}
+img#e18             { /* games.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 251.25pt;
+	width           :  89.25pt;
+	height          :  15.00pt;
+	}
+img#e17             { /* about.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 315.75pt;
+	width           :  80.25pt;
+	height          :  15.00pt;
+	}
+img#e16             { /* links.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 358.50pt;
+	width           :  42.75pt;
+	height          :  15.00pt;
+	}
+img#e15             { /* videos.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 337.50pt;
+	width           :  57.00pt;
+	height          :  15.00pt;
+	}
+img#e14             { /* books.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 294.75pt;
+	width           :  81.75pt;
+	height          :  14.25pt;
+	}
+img#e13             { /* diemer.jpg */
+	position        : absolute;
+	left            :  12.75pt;
+	top             : 140.25pt;
+	width           : 178.50pt;
+	height          :  18.75pt;
+	}
+span#e12            { /* halloween1.jpg */
+	background      : transparent url(halloween1.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 215.25pt;
+	top             : 123.75pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+div#e11             { /* <DIV><FONT size="4"><A h... */
+	position        : absolute;
+	left            :   6.00pt;
+	top             : 421.50pt;
+	width           : 182.25pt;
+	height          :  36.00pt;
+	}
+div#e10             { /* <DIV>This is the best li... */
+	position        : absolute;
+	left            : 207.00pt;
+	top             :1108.50pt;
+	width           : 365.25pt;
+	height          :  50.25pt;
+	}
+span#e9             { /* chess_site007002.gif */
+	background      : transparent url(chess_site007002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 202.50pt;
+	top             : 786.00pt;
+	width           : 397.50pt;
+	height          : 373.50pt;
+	}
+span#e8             { /* halloween3.jpg */
+	background      : transparent url(halloween3.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 291.75pt;
+	top             : 900.00pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+span#e7             { /* halloween2.jpg */
+	background      : transparent url(halloween2.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 339.00pt;
+	top             : 664.50pt;
+	width           : 105.00pt;
+	height          : 105.00pt;
+	}
+span#e6             { /* chess_site007001.gif */
+	background      : transparent url(chess_site007001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 208.50pt;
+	top             : 341.25pt;
+	width           : 391.50pt;
+	height          : 317.25pt;
+	}
+img#e5              { /* minchev.gif */
+	position        : absolute;
+	left            : 209.25pt;
+	top             : 409.50pt;
+	width           : 120.00pt;
+	height          :  16.50pt;
+	}
+span#e4             { /* halloween1.gif */
+	background      : transparent url(halloween1.gif) no-repeat top left;
+	position        : absolute;
+	left            : 215.25pt;
+	top             : 101.25pt;
+	width           : 245.25pt;
+	height          :  20.25pt;
+	}
+div#e3              {
+	position        : absolute;
+	left            :   1.50pt;
+	top             : 381.00pt;
+	width           : 203.25pt;
+	height          :  33.75pt;
+	}
+img#e2              { /* zdemo.jpg */
+	position        : absolute;
+	left            : 430.50pt;
+	top             : 184.50pt;
+	width           : 163.50pt;
+	height          :  87.75pt;
+	}
+div#e1              { /* UPDATE:\ \It has come to... */
+	position        : absolute;
+	left            : 206.25pt;
+	top             :1185.00pt;
+	width           : 358.50pt;
+	height          : 330.00pt;
+	}
+body#page           { /* Page Body */
+	background-color: #ffffff;
+	background-image: url(ztile1.jpg); background-repeat: repeat-x; <!--Web_Site_must_have_such_image-->
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

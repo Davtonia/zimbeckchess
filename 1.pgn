@@ -1,0 +1,61 @@
+[Event "?"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "White to win!"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "Zimbeck,David"]
+[SetUp "1"]
+[FEN "2r5/1N1NpPk1/2P1p1P1/pp2Pp1P/2rp2pK/2b4R/2PR1P1B/2q5 w - - 0 1"]
+[PlyCount "61"]
+[EventDate "2003.??.??"]
+
+1. Rd1 (1. Kg5 $2 Bxd2+ 2. Re3 Bxe3+ 3. fxe3 Qxe3+ 4. Bf4 Qxf4+ 5. Kxf4 Kh6)
+1... Qxd1 (1... Qh6 2. Nbc5 gxh3 3. Nxe6+ Kh8 4. Rd3 Bd2 5. g7+ Qxg7 6. Nxg7
+Kxg7 7. e6 Bh6 8. Be5+ Kh7 9. Nf6+ exf6 10. e7 fxe5 11. Kxh3 $18) 2. Kg5 Bd2+
+3. Re3 g3 4. h6+ Kh8 5. g7+ Kh7 6. Nf8+ Rxf8 7. gxf8=N+ Kh8 8. Ng6+ Kh7 9.
+f8=N+ Kg8 10. h7+ Kf7 11. Nd8+ Ke8 12. Ndxe6 Rxc6 (12... Bxe3+ 13. fxe3 Qg4+
+14. Kh6 Qh3+ (14... Rxc6 15. Kg7 Qh5 16. Bxg3) 15. Kg7 gxh2 16. Nc7+ Kd8 17.
+Nfe6+ Kc8 18. Nxe7+ Kb8 19. Na6+ Ka7 20. Nc8+ Kxa6 21. Nc7#) (12... Kf7 13.
+h8=N+ Ke8 14. Nc7+ Kd8 15. Nfe6+ Kc8 16. Nxe7+ Kb8 17. Na6+ Ka7 18. Nc8+ Kxa6
+19. Nc7#) 13. Ng7+ (13. h8=Q $2 Qg4+ 14. Kh6 Qh3+ 15. Kg7 Qxh8+ 16. Kxh8 dxe3
+17. Bxg3 e2 $11 {the fast A pawn is enough to draw}) 13... Kf7 (13... Kd8 14.
+Nfe6+ Kd7 15. h8=Q Qg4+ 16. Kh6 Qh3+ 17. Nh5 Rc8 (17... Rxe6 18. Kg7 Rxg6+ 19.
+Kxg6 Qg4+ 20. Kf7 dxe3 (20... gxh2 21. Nf6+ exf6 22. e6+) 21. e6+ Kc6 22. Bxg3
+e2 23. Qe8+ Kb6 24. Qd8+ Kc6 (24... Kc5 25. Qxe7+ Kc4 26. Qc7+ Kb4 27. Qd6+ Ka4
+28. Qxd2 Qxh5+ 29. Kf6 $18) 25. Nf6) 18. Ngf8+ Rxf8 19. Nxf8+ Kc6 20. Ne6) 14.
+Nxf5 Bxe3+ (14... dxe3 15. Nh6+ Ke8 16. f4 gxh2 (16... Rxg6+ 17. Nxg6 gxh2 18.
+h8=Q+ Kd7 19. Qa8) (16... Rc8 17. h8=Q e2 (17... Bb4 18. Bxg3 e2 (18... Qg1 19.
+Nf5 Kd8 20. Qg8 $18) 19. Nf5) 18. Qg8 Bb4 (18... Kd8 19. Nxe7 Bxf4+ 20. Kxf4
+Rc3 21. Nd5 Qd4+ 22. Kf5) 19. Bg1 e1=N 20. Nf5 Nf3+ 21. Kh6 Qxg1 22. Qe6) 17.
+h8=Q Qh5+ 18. Kxh5 h1=Q+ 19. Kg5 Qg2+ 20. Ng4 Rc8 (20... e2 21. Kf5) 21. Nxe7)
+15. fxe3 gxh2 (15... Rxg6+ 16. Nxg6 gxh2 17. Nh6+ Ke6 18. h8=Q h1=Q 19. Qc8+
+Kd5 20. Ng4 $18 Qxg4+ 21. Qxg4 dxe3 22. Qd7+ Kc5 23. Nf4 Qg1+ 24. Kf5 Qf2 25.
+Qxe7+ Kc4 26. Qc7+ Kb4 27. e6 $18) 16. e6+ Rxe6 17. Nh6+ Ke8 18. Nxe6 Qg1+ 19.
+Kf5 Qf2+ 20. Nef4 Kd7 (20... Qxc2+ 21. e4 $1 Qxe4+ (21... Kd7 22. h8=Q h1=Q 23.
+Ne5+ Kc7 24. Qa8 Qf1 25. Qa7+ Kc8 26. Qd7+ Kb8 27. Nc6+ Qxc6 28. Qxc6) 22. Kg5
+Kd7 23. h8=Q Kc7 24. Ne5 h1=Q (24... Kb7 25. Nd7) 25. Ne6+ Kb7 26. Nc5+ Kc7 (
+26... Ka7 27. Nxe4 Qxe4 28. Nhg4 Qa8 29. Qg7 Qb7 30. Qg8 $18) 27. Nxe4 Qxe4 28.
+Nhg4 Qd5 29. Qe8 Qc5 30. Kf4 $18) 21. h8=Q h1=Q 22. Qxd4+ Kc7 (22... Ke8 23.
+Kg5 Qfg1+ 24. Ng4 Qd1 25. Qg7 Kd7 26. Qxe7+ Kc8 27. Qa7 $18) 23. Kg5 Kb7 (23...
+Qg3+ 24. Ng4 Kb8 25. Qd8+ Kb7 26. Qd7+ Ka8 27. Nd5 Qb8 28. Ngxe7 b4 29. Nc7+
+Kb7 30. Qb5+ Kxc7 31. Nd5+) (23... Qb7 24. Nxe7 Qa6 (24... Qxc2 25. Nf7 Kb8 26.
+Qd8+ Ka7 27. Nd6 Qc5+ 28. Kg4 Qh1 29. Qxa5+ Kb8 30. Qd8+ Ka7 31. Qd7+ Ka6 32.
+Ned5 Qg1+ 33. Kh5 Qg8 34. Qb7+ Ka5 35. Ne6 Qh8+ 36. Kg4 Qxd6 37. Qa7+ Qa6 38.
+Qe7) 25. Qc3+ Kd7 26. Ng4 Qg1 27. Qg7) 24. Qd7+ Ka6 (24... Ka8 25. Ng4 Qxc2 26.
+Nd5 Qc5 27. Ngxe7 Qe4 28. Kf6 Qec4 29. Ne5 Qh4+ 30. Kg7 Qhxe7+ 31. Qxe7 Qxd5
+32. Kf6 a4 33. Qc7 Qb7 34. Qxb7+ Kxb7 35. Nd3 $18) 25. Qe6+ Ka7 (25... Kb7 26.
+Qxe7+ Kb6 (26... Ka6 27. Qd6+ Kb7 28. Ng4 Qxc2 29. Ne6 Qhc1 30. Ne7) 27. Qd8+
+$1 Kb7 28. Qd7+ Ka6 29. Qd6+ Ka7 30. Ng4 Qg3 31. Qc5+ Ka6 32. Nd5 Qb8 33. Qc6+
+Ka7 34. Nge7 Qd8 35. Qxb5 $18) 26. Ng4 Qg3 (26... Qff3 27. Nxe7 Qh7 (27... Qa8
+28. Nfd5 Qd8 29. Qf6 Kb7 30. Qc6+ Ka7 31. Qxb5 Qg2 32. c4) 28. Nc6+ Kb7 29.
+Nxa5+ Ka7 30. Nc6+ Kb7 31. Nb4) (26... Qxc2 27. Nd5 Qc5 28. Ngxe7 $18) (26...
+Qd2 27. Nxe7 Qd8 28. Nf6 Qf8 (28... Kb7 29. Kg6 a4 30. Kf7 Qb6 31. Qd7+ Qc7 32.
+Qxb5+ Qb6 33. Qxa4) 29. Qd7+ Ka6 30. Ned5 Qb8 31. Qc6+ Ka7 32. Qc5+ Ka8 33.
+Nc7+ Kb7 34. Qxb5+ $18) 27. c3 $1 {Black has no good moves} a4 (27... b4 28.
+Qa2 Kb8 29. Qxa5 bxc3 30. Qxc3 $18 {
+3N+P vs Q is a win so white has nothing to worry about}) 28. c4 bxc4 (28... a3
+29. Qxe7+ Kb8 30. Nd5) (28... b4 29. c5 $18) 29. Qxc4 Qd1 (29... Qa1 30. Qc5+
+Ka6 31. N6e5 Qb2 32. Nfd3) 30. N6e5 Qd6 31. Nc6+ $18 1-0
+

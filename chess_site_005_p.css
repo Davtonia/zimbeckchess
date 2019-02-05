@@ -1,0 +1,187 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc08               { /* Common */
+	border          :   0.00pt solid #000000;
+	}
+.cc09               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e23             { /* banner3.jpg */
+	position        : absolute;
+	left            :  84.75pt;
+	top             :   4.50pt;
+	width           : 490.50pt;
+	height          :  87.75pt;
+	}
+span#e22            { /* menu.jpg */
+	background      : transparent url(menu.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  94.50pt;
+	width           : 209.25pt;
+	height          : 288.00pt;
+	}
+img#e21             { /* samplepuzzles.jpg */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 119.25pt;
+	width           : 132.75pt;
+	height          :  18.00pt;
+	}
+img#e20             { /* centercounter.jpg */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 164.25pt;
+	width           : 172.50pt;
+	height          :  16.50pt;
+	}
+img#e19             { /* brentano.jpg */
+	position        : absolute;
+	left            :  16.50pt;
+	top             : 183.75pt;
+	width           : 115.50pt;
+	height          :  18.00pt;
+	}
+img#e18             { /* halloween.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 228.00pt;
+	width           : 124.50pt;
+	height          :  17.25pt;
+	}
+img#e17             { /* latvian.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 205.50pt;
+	width           : 167.25pt;
+	height          :  19.50pt;
+	}
+img#e16             { /* database.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 273.00pt;
+	width           : 105.75pt;
+	height          :  15.75pt;
+	}
+img#e15             { /* games.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 251.25pt;
+	width           :  89.25pt;
+	height          :  15.00pt;
+	}
+img#e14             { /* about.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 315.75pt;
+	width           :  80.25pt;
+	height          :  15.00pt;
+	}
+img#e13             { /* links.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 358.50pt;
+	width           :  42.75pt;
+	height          :  15.00pt;
+	}
+img#e12             { /* videos.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 337.50pt;
+	width           :  57.00pt;
+	height          :  15.00pt;
+	}
+img#e11             { /* books.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 294.75pt;
+	width           :  81.75pt;
+	height          :  14.25pt;
+	}
+img#e10             { /* diemer.jpg */
+	position        : absolute;
+	left            :  12.75pt;
+	top             : 140.25pt;
+	width           : 178.50pt;
+	height          :  18.75pt;
+	}
+span#e9             { /* brentano1.jpg */
+	background      : transparent url(brentano1.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 216.75pt;
+	top             : 123.75pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+span#e8             { /* brentanotext1.gif */
+	background      : transparent url(brentanotext1.gif) no-repeat top left;
+	position        : absolute;
+	left            : 216.75pt;
+	top             : 101.25pt;
+	width           : 189.00pt;
+	height          :  20.25pt;
+	}
+span#e7             { /* chess_site005002.gif */
+	background      : transparent url(chess_site005002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 209.25pt;
+	top             : 341.25pt;
+	width           : 390.75pt;
+	height          : 136.50pt;
+	}
+span#e6             { /* brentano2.jpg */
+	background      : transparent url(brentano2.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 339.75pt;
+	top             : 481.50pt;
+	width           : 105.00pt;
+	height          : 105.00pt;
+	}
+span#e5             { /* chess_site005001.gif */
+	background      : transparent url(chess_site005001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 208.50pt;
+	top             : 596.25pt;
+	width           : 391.50pt;
+	height          : 454.50pt;
+	}
+span#e4             { /* brentano3.jpg */
+	background      : transparent url(brentano3.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 331.50pt;
+	top             : 880.50pt;
+	width           : 105.00pt;
+	height          : 105.00pt;
+	}
+div#e3              {
+	position        : absolute;
+	left            :   1.50pt;
+	top             : 381.00pt;
+	width           : 203.25pt;
+	height          :  33.75pt;
+	}
+img#e2              { /* zdemo.jpg */
+	position        : absolute;
+	left            : 430.50pt;
+	top             : 184.50pt;
+	width           : 163.50pt;
+	height          :  87.75pt;
+	}
+div#e1              { /* UPDATE:<BR>  \Recently i... */
+	position        : absolute;
+	left            :   4.50pt;
+	top             : 423.00pt;
+	width           : 195.75pt;
+	height          : 102.00pt;
+	}
+body#page           { /* Page Body */
+	background-color: #ffffff;
+	background-image: url(ztile1.jpg); background-repeat: repeat-x; <!--Web_Site_must_have_such_image-->
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,181 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc18               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc19               { /* Common */
+	border          :   0.00pt solid #000000;
+	}
+img#e23             { /* banner3.jpg */
+	position        : absolute;
+	left            :  84.75pt;
+	top             :   4.50pt;
+	width           : 490.50pt;
+	height          :  87.75pt;
+	}
+span#e22            { /* menu.jpg */
+	background      : transparent url(menu.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  94.50pt;
+	width           : 209.25pt;
+	height          : 288.00pt;
+	}
+img#e21             { /* samplepuzzles.jpg */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 119.25pt;
+	width           : 132.75pt;
+	height          :  18.00pt;
+	}
+img#e20             { /* centercounter.jpg */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 164.25pt;
+	width           : 172.50pt;
+	height          :  16.50pt;
+	}
+img#e19             { /* brentano.jpg */
+	position        : absolute;
+	left            :  16.50pt;
+	top             : 183.75pt;
+	width           : 115.50pt;
+	height          :  18.00pt;
+	}
+img#e18             { /* halloween.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 228.00pt;
+	width           : 124.50pt;
+	height          :  17.25pt;
+	}
+img#e17             { /* latvian.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 205.50pt;
+	width           : 167.25pt;
+	height          :  19.50pt;
+	}
+img#e16             { /* database.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 273.00pt;
+	width           : 105.75pt;
+	height          :  15.75pt;
+	}
+img#e15             { /* games.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 251.25pt;
+	width           :  89.25pt;
+	height          :  15.00pt;
+	}
+img#e14             { /* about.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 315.75pt;
+	width           :  80.25pt;
+	height          :  15.00pt;
+	}
+img#e13             { /* links.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 358.50pt;
+	width           :  42.75pt;
+	height          :  15.00pt;
+	}
+img#e12             { /* videos.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 337.50pt;
+	width           :  57.00pt;
+	height          :  15.00pt;
+	}
+img#e11             { /* books.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 294.75pt;
+	width           :  81.75pt;
+	height          :  14.25pt;
+	}
+img#e10             { /* diemer.jpg */
+	position        : absolute;
+	left            :  12.75pt;
+	top             : 140.25pt;
+	width           : 178.50pt;
+	height          :  18.75pt;
+	}
+div#e9              { /* <DIV><STRONG><FONT color... */
+	position        : absolute;
+	left            : 243.00pt;
+	top             : 100.50pt;
+	width           : 265.50pt;
+	height          :  63.75pt;
+	}
+div#e8              { /* <DIV><STRONG>Zimbeck vs.... */
+	position        : absolute;
+	left            : 243.00pt;
+	top             : 172.50pt;
+	width           : 273.75pt;
+	height          :  20.25pt;
+	}
+div#e7              {
+	position        : absolute;
+	left            : 243.75pt;
+	top             : 507.00pt;
+	width           : 300.00pt;
+	height          : 258.75pt;
+	}
+div#e6              {
+	position        : absolute;
+	left            : 243.75pt;
+	top             : 194.25pt;
+	width           : 240.00pt;
+	height          : 213.75pt;
+	}
+div#e5              { /* <DIV><STRONG>Behold... I... */
+	position        : absolute;
+	left            : 242.25pt;
+	top             : 466.50pt;
+	width           : 274.50pt;
+	height          :  33.75pt;
+	}
+div#e4              { /* <DIV><STRONG>One of the ... */
+	position        : absolute;
+	left            : 241.50pt;
+	top             : 789.00pt;
+	width           : 242.25pt;
+	height          :  33.00pt;
+	}
+div#e3              {
+	position        : absolute;
+	left            : 243.00pt;
+	top             : 851.25pt;
+	width           : 240.00pt;
+	height          : 213.75pt;
+	}
+div#e2              { /* <DIV><STRONG>Zimbeck vs.... */
+	position        : absolute;
+	left            : 243.00pt;
+	top             : 825.00pt;
+	width           : 273.75pt;
+	height          :  20.25pt;
+	}
+div#e1              {
+	position        : absolute;
+	left            :   1.50pt;
+	top             : 381.00pt;
+	width           : 203.25pt;
+	height          :  33.75pt;
+	}
+body#page           { /* Page Body */
+	background-color: #ffffff;
+	background-image: url(ztile1.jpg); background-repeat: repeat-x; <!--Web_Site_must_have_such_image-->
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

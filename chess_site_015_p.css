@@ -1,0 +1,37 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc27               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+div#e3              { /* <DIV>  \<P><FONT size="2... */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 138.75pt;
+	width           : 515.25pt;
+	height          : 156.00pt;
+	}
+span#e2             { /* chess_site015001.jpg */
+	background      : transparent url(chess_site015001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 225.00pt;
+	top             :   6.00pt;
+	width           : 131.25pt;
+	height          : 131.25pt;
+	}
+div#e1              { /* <DIV><FONT color="#0000f... */
+	position        : absolute;
+	left            :  22.50pt;
+	top             :  30.75pt;
+	width           : 152.25pt;
+	height          :  84.00pt;
+	}
+body#page           { /* Page Body */
+	background-color: #ffffff;
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

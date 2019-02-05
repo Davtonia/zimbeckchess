@@ -1,0 +1,310 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc03               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc04               { /* Common */
+	border          :   0.00pt solid #000000;
+	}
+img#e39             { /* banner3.jpg */
+	position        : absolute;
+	left            :  84.75pt;
+	top             :   4.50pt;
+	width           : 490.50pt;
+	height          :  87.75pt;
+	}
+span#e38            { /* menu.jpg */
+	background      : transparent url(menu.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  94.50pt;
+	width           : 209.25pt;
+	height          : 288.00pt;
+	}
+img#e37             { /* samplepuzzles.jpg */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 119.25pt;
+	width           : 132.75pt;
+	height          :  18.00pt;
+	}
+img#e36             { /* centercounter.jpg */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 164.25pt;
+	width           : 172.50pt;
+	height          :  16.50pt;
+	}
+img#e35             { /* brentano.jpg */
+	position        : absolute;
+	left            :  16.50pt;
+	top             : 183.75pt;
+	width           : 115.50pt;
+	height          :  18.00pt;
+	}
+img#e34             { /* halloween.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 228.00pt;
+	width           : 124.50pt;
+	height          :  17.25pt;
+	}
+img#e33             { /* latvian.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 205.50pt;
+	width           : 167.25pt;
+	height          :  19.50pt;
+	}
+img#e32             { /* database.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 273.00pt;
+	width           : 105.75pt;
+	height          :  15.75pt;
+	}
+img#e31             { /* games.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 251.25pt;
+	width           :  89.25pt;
+	height          :  15.00pt;
+	}
+img#e30             { /* about.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 315.75pt;
+	width           :  80.25pt;
+	height          :  15.00pt;
+	}
+img#e29             { /* links.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 358.50pt;
+	width           :  42.75pt;
+	height          :  15.00pt;
+	}
+img#e28             { /* videos.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 337.50pt;
+	width           :  57.00pt;
+	height          :  15.00pt;
+	}
+img#e27             { /* books.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 294.75pt;
+	width           :  81.75pt;
+	height          :  14.25pt;
+	}
+img#e26             { /* diemer.jpg */
+	position        : absolute;
+	left            :  12.75pt;
+	top             : 140.25pt;
+	width           : 178.50pt;
+	height          :  18.75pt;
+	}
+div#e25             { /* <DIV><STRONG><FONT size=... */
+	position        : absolute;
+	left            : 215.25pt;
+	top             : 101.25pt;
+	width           : 204.75pt;
+	height          :  24.75pt;
+	}
+span#e24            { /* diemer1.jpg */
+	background      : transparent url(diemer1.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 215.25pt;
+	top             : 124.50pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+span#e23            { /* diemer2.jpg */
+	background      : transparent url(diemer2.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 296.25pt;
+	top             : 683.25pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+span#e22            { /* diemer3.jpg */
+	background      : transparent url(diemer3.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 296.25pt;
+	top             : 982.50pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+span#e21            { /* diemer4.jpg */
+	background      : transparent url(diemer4.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 296.25pt;
+	top             :1435.50pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+span#e20            { /* diemer5.jpg */
+	background      : transparent url(diemer5.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 296.25pt;
+	top             :1743.00pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+span#e19            { /* diemer6.jpg */
+	background      : transparent url(diemer6.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 296.25pt;
+	top             :2070.75pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+span#e18            { /* diemer7.jpg */
+	background      : transparent url(diemer7.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 296.25pt;
+	top             :2443.50pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+span#e17            { /* diemer9.jpg */
+	background      : transparent url(diemer9.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 296.25pt;
+	top             :2977.50pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+div#e16             { /* <DIV><STRONG><FONT size=... */
+	position        : absolute;
+	left            : 303.75pt;
+	top             :3299.25pt;
+	width           : 141.75pt;
+	height          :  49.50pt;
+	}
+span#e15            { /* chess_site002004.gif */
+	background      : transparent url(chess_site002004.gif) no-repeat top left;
+	position        : absolute;
+	left            : 210.00pt;
+	top             : 342.00pt;
+	width           : 390.00pt;
+	height          : 339.00pt;
+	}
+span#e14            { /* chess_site002003.gif */
+	background      : transparent url(chess_site002003.gif) no-repeat top left;
+	position        : absolute;
+	left            : 168.00pt;
+	top             : 899.25pt;
+	width           : 432.00pt;
+	height          :  82.50pt;
+	}
+span#e13            { /* chess_site002002.gif */
+	background      : transparent url(chess_site002002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 168.00pt;
+	top             :1198.50pt;
+	width           : 432.00pt;
+	height          : 240.75pt;
+	}
+span#e12            { /* diemertext4.gif */
+	background      : transparent url(diemertext4.gif) no-repeat top left;
+	position        : absolute;
+	left            : 168.00pt;
+	top             :1650.00pt;
+	width           : 430.50pt;
+	height          :  93.00pt;
+	}
+span#e11            { /* diemertext5.gif */
+	background      : transparent url(diemertext5.gif) no-repeat top left;
+	position        : absolute;
+	left            : 164.25pt;
+	top             :1956.75pt;
+	width           : 424.50pt;
+	height          : 111.00pt;
+	}
+span#e10            { /* chess_site002001.gif */
+	background      : transparent url(chess_site002001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 164.25pt;
+	top             :2287.50pt;
+	width           : 435.75pt;
+	height          : 155.25pt;
+	}
+span#e9             { /* diemertext7.gif */
+	background      : transparent url(diemertext7.gif) no-repeat top left;
+	position        : absolute;
+	left            : 177.00pt;
+	top             :2673.75pt;
+	width           : 376.50pt;
+	height          : 291.00pt;
+	}
+span#e8             { /* diemer8.jpg */
+	background      : transparent url(diemer8.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 303.75pt;
+	top             :2767.50pt;
+	width           : 105.00pt;
+	height          : 105.00pt;
+	}
+span#e7             { /* diemertext8.gif */
+	background      : transparent url(diemertext8.gif) no-repeat top left;
+	position        : absolute;
+	left            : 174.00pt;
+	top             :3197.25pt;
+	width           : 415.50pt;
+	height          :  89.25pt;
+	}
+img#e6              { /* diemertextbook.gif */
+	position        : absolute;
+	left            : 211.50pt;
+	top             : 398.25pt;
+	width           :  33.00pt;
+	height          :  15.75pt;
+	}
+img#e5              { /* diemertextdata.gif */
+	position        : absolute;
+	left            : 459.00pt;
+	top             : 412.50pt;
+	width           :  54.00pt;
+	height          :  13.50pt;
+	}
+img#e4              { /* diemertextpage2.gif */
+	position        : absolute;
+	left            : 546.00pt;
+	top             : 615.00pt;
+	width           :  45.00pt;
+	height          :  18.00pt;
+	}
+img#e3              { /* diemertextpage2.gif */
+	position        : absolute;
+	left            : 546.00pt;
+	top             : 641.25pt;
+	width           :  45.00pt;
+	height          :  18.00pt;
+	}
+div#e2              {
+	position        : absolute;
+	left            :   1.50pt;
+	top             : 381.00pt;
+	width           : 203.25pt;
+	height          :  33.75pt;
+	}
+img#e1              { /* zdemo.jpg */
+	position        : absolute;
+	left            : 430.50pt;
+	top             : 184.50pt;
+	width           : 163.50pt;
+	height          :  87.75pt;
+	}
+body#page           { /* Page Body */
+	background-color: #ffffff;
+	background-image: url(ztile1.jpg); background-repeat: repeat-x; <!--Web_Site_must_have_such_image-->
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,174 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc20               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc21               { /* Common */
+	border          :   0.00pt solid #000000;
+	}
+img#e22             { /* banner3.jpg */
+	position        : absolute;
+	left            :  84.75pt;
+	top             :   4.50pt;
+	width           : 490.50pt;
+	height          :  87.75pt;
+	}
+span#e21            { /* menu.jpg */
+	background      : transparent url(menu.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  94.50pt;
+	width           : 209.25pt;
+	height          : 288.00pt;
+	}
+img#e20             { /* samplepuzzles.jpg */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 119.25pt;
+	width           : 132.75pt;
+	height          :  18.00pt;
+	}
+img#e19             { /* centercounter.jpg */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 164.25pt;
+	width           : 172.50pt;
+	height          :  16.50pt;
+	}
+img#e18             { /* brentano.jpg */
+	position        : absolute;
+	left            :  16.50pt;
+	top             : 183.75pt;
+	width           : 115.50pt;
+	height          :  18.00pt;
+	}
+img#e17             { /* halloween.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 228.00pt;
+	width           : 124.50pt;
+	height          :  17.25pt;
+	}
+img#e16             { /* latvian.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 205.50pt;
+	width           : 167.25pt;
+	height          :  19.50pt;
+	}
+img#e15             { /* database.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 273.00pt;
+	width           : 105.75pt;
+	height          :  15.75pt;
+	}
+img#e14             { /* games.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 251.25pt;
+	width           :  89.25pt;
+	height          :  15.00pt;
+	}
+img#e13             { /* about.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 315.75pt;
+	width           :  80.25pt;
+	height          :  15.00pt;
+	}
+img#e12             { /* links.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 358.50pt;
+	width           :  42.75pt;
+	height          :  15.00pt;
+	}
+img#e11             { /* videos.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 337.50pt;
+	width           :  57.00pt;
+	height          :  15.00pt;
+	}
+img#e10             { /* books.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 294.75pt;
+	width           :  81.75pt;
+	height          :  14.25pt;
+	}
+img#e9              { /* diemer.jpg */
+	position        : absolute;
+	left            :  12.75pt;
+	top             : 140.25pt;
+	width           : 178.50pt;
+	height          :  18.75pt;
+	}
+div#e8              { /* <DIV><SPAN style="FONT-S... */
+	position        : absolute;
+	left            : 219.00pt;
+	top             : 104.25pt;
+	width           : 361.50pt;
+	height          :  36.75pt;
+	}
+img#e7              { /* logo.jpg */
+	position        : absolute;
+	left            : 218.25pt;
+	top             : 168.75pt;
+	width           : 243.75pt;
+	height          :  87.00pt;
+	}
+img#e6              { /* strategemslogo.jpg */
+	position        : absolute;
+	left            : 215.25pt;
+	top             : 390.00pt;
+	width           : 251.25pt;
+	height          :  56.25pt;
+	}
+div#e5              { /* <DIV>Below is a link to ... */
+	position        : absolute;
+	left            : 218.25pt;
+	top             : 146.25pt;
+	width           : 267.75pt;
+	height          :  20.25pt;
+	}
+div#e4              { /* <DIV>Strategems is the w... */
+	position        : absolute;
+	left            : 220.50pt;
+	top             : 459.75pt;
+	width           : 319.50pt;
+	height          :  45.75pt;
+	}
+div#e3              { /* <DIV>Here is a link to B... */
+	position        : absolute;
+	left            : 220.50pt;
+	top             : 504.75pt;
+	width           : 276.75pt;
+	height          :  45.75pt;
+	}
+img#e2              { /* sequence%2005.gif */
+	position        : absolute;
+	left            : 217.50pt;
+	top             : 288.00pt;
+	width           : 225.00pt;
+	height          :  78.75pt;
+	}
+div#e1              {
+	position        : absolute;
+	left            :   1.50pt;
+	top             : 381.00pt;
+	width           : 203.25pt;
+	height          :  33.75pt;
+	}
+body#page           { /* Page Body */
+	background-color: #ffffff;
+	background-image: url(ztile1.jpg); background-repeat: repeat-x; <!--Web_Site_must_have_such_image-->
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

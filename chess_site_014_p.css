@@ -1,0 +1,359 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc24               { /* Common */
+	border          :   0.00pt solid #ffffff;
+	}
+.cc25               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc26               { /* Common */
+	border          :   0.00pt solid #000000;
+	}
+span#e40            { /* chess_site014003.gif */
+	background      : transparent url(chess_site014003.gif) no-repeat top left;
+	position        : absolute;
+	left            : 379.50pt;
+	top             : 408.00pt;
+	width           : 217.50pt;
+	height          :3342.00pt;
+	}
+span#e39            { /* chess_site014002.gif */
+	background      : transparent url(chess_site014002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 132.75pt;
+	top             : 408.00pt;
+	width           : 251.25pt;
+	height          :3342.00pt;
+	}
+span#e38            { /* z1.jpg */
+	background      : transparent url(z1.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 137.25pt;
+	top             : 347.25pt;
+	width           : 433.50pt;
+	height          : 113.25pt;
+	}
+img#e37             { /* banner3.jpg */
+	position        : absolute;
+	left            :  84.75pt;
+	top             :   4.50pt;
+	width           : 490.50pt;
+	height          :  87.75pt;
+	}
+span#e36            { /* menu.jpg */
+	background      : transparent url(menu.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  94.50pt;
+	width           : 209.25pt;
+	height          : 288.00pt;
+	}
+img#e35             { /* samplepuzzles.jpg */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 119.25pt;
+	width           : 132.75pt;
+	height          :  18.00pt;
+	}
+img#e34             { /* centercounter.jpg */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 164.25pt;
+	width           : 172.50pt;
+	height          :  16.50pt;
+	}
+img#e33             { /* brentano.jpg */
+	position        : absolute;
+	left            :  16.50pt;
+	top             : 183.75pt;
+	width           : 115.50pt;
+	height          :  18.00pt;
+	}
+img#e32             { /* halloween.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 228.00pt;
+	width           : 124.50pt;
+	height          :  17.25pt;
+	}
+img#e31             { /* latvian.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 205.50pt;
+	width           : 167.25pt;
+	height          :  19.50pt;
+	}
+img#e30             { /* database.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 273.00pt;
+	width           : 105.75pt;
+	height          :  15.75pt;
+	}
+img#e29             { /* games.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 251.25pt;
+	width           :  89.25pt;
+	height          :  15.00pt;
+	}
+img#e28             { /* about.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 315.75pt;
+	width           :  80.25pt;
+	height          :  15.00pt;
+	}
+img#e27             { /* links.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 358.50pt;
+	width           :  42.75pt;
+	height          :  15.00pt;
+	}
+img#e26             { /* videos.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 337.50pt;
+	width           :  57.00pt;
+	height          :  15.00pt;
+	}
+img#e25             { /* books.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 294.75pt;
+	width           :  81.75pt;
+	height          :  14.25pt;
+	}
+img#e24             { /* diemer.jpg */
+	position        : absolute;
+	left            :  12.75pt;
+	top             : 140.25pt;
+	width           : 178.50pt;
+	height          :  18.75pt;
+	}
+div#e23             {
+	position        : absolute;
+	left            : 262.50pt;
+	top             : 678.75pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+span#e22            { /* mate256.jpg */
+	background      : transparent url(mate256.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 262.50pt;
+	top             : 423.75pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+div#e21             { /* <DIV><FONT face="Times N... */
+	position        : absolute;
+	left            : 265.50pt;
+	top             : 407.25pt;
+	width           : 207.00pt;
+	height          :  24.75pt;
+	}
+div#e20             { /* <DIV>This was my attempt... */
+	position        : absolute;
+	left            : 149.25pt;
+	top             : 423.75pt;
+	width           : 105.75pt;
+	height          : 198.75pt;
+	}
+div#e19             {
+	position        : absolute;
+	left            : 262.50pt;
+	top             : 135.00pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+div#e18             { /* <DIV>Let's start off eas... */
+	position        : absolute;
+	left            : 263.25pt;
+	top             :  93.00pt;
+	width           : 219.75pt;
+	height          :  45.75pt;
+	}
+img#e17             { /* chess_site014001.jpg */
+	position        : absolute;
+	left            : 479.25pt;
+	top             : 260.25pt;
+	width           : 112.50pt;
+	height          :  83.25pt;
+	}
+div#e16             {
+	position        : absolute;
+	left            : 258.75pt;
+	top             : 967.50pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+div#e15             { /* <DIV>This one is like th... */
+	position        : absolute;
+	left            : 154.50pt;
+	top             : 984.75pt;
+	width           : 101.25pt;
+	height          : 202.50pt;
+	}
+div#e14             {
+	position        : absolute;
+	left            : 258.75pt;
+	top             :1256.25pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+div#e13             { /* <DIV>Here I set a world ... */
+	position        : absolute;
+	left            : 156.00pt;
+	top             :1274.25pt;
+	width           : 102.75pt;
+	height          : 202.50pt;
+	}
+span#e12            { /* mate3.jpg */
+	background      : transparent url(mate3.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 258.75pt;
+	top             :1533.75pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+div#e11             { /* <DIV><FONT face="Times N... */
+	position        : absolute;
+	left            : 261.00pt;
+	top             :1517.25pt;
+	width           : 207.00pt;
+	height          :  24.75pt;
+	}
+div#e10             { /* <DIV><A href="chess_site... */
+	position        : absolute;
+	left            : 315.75pt;
+	top             :1752.00pt;
+	width           : 114.00pt;
+	height          :  20.25pt;
+	}
+div#e9              {
+	position        : absolute;
+	left            : 258.75pt;
+	top             :1822.50pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+div#e8              {
+	position        : absolute;
+	left            : 258.75pt;
+	top             :2111.25pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	<table border="0" cellpadding="0">
+	  <caption><strong>Mate in 6 - Strategems 2004</strong></caption>
+	  <tr>
+	    <td width="100%"><img src="g1.jpg" width="272" height="272" name="photoslider"></td>
+	  </tr>
+	  <tr>
+	    <td width="100%"><form method="POST" name="rotater">
+	      <div align="center"><center><p><script language="JavaScript1.1">
+	var photos=new Array()
+	var which=0
+	
+	/*Change the below variables to reference your own images. You may have as many images in the slider as you wish*/
+	photos[0]="g1.jpg"
+	photos[1]="g2.jpg"
+	photos[2]="g3.jpg"
+	photos[3]="g4.jpg"
+	photos[4]="g5.jpg"
+	photos[5]="g6.jpg"
+	photos[6]="g7.jpg"
+	photos[7]="g8.jpg"
+	photos[8]="g9.jpg"
+	photos[9]="g10.jpg"
+	photos[10]="g11.jpg"
+	photos[11]="g12.jpg"
+	
+	function backward(){
+	if (which>0){
+	
+	window.status=''
+	which--
+	document.images.photoslider.src=photos[which]
+	}
+	}
+	
+	function forward(){
+	if (which<photos.length-1){
+	which++
+	document.images.photoslider.src=photos[which]
+	}
+	else window.status='End of gallery'
+	}
+	</script><input type="button" value="&lt;&lt;Back" name="B2"
+	      onClick="backward()"> <input type="button" value="Next&gt;&gt;" name="B1"
+	      onClick="forward()"><br>
+	      <a href="#" onClick="which=1;backward();return false"><small>Start Over</small></a></p>
+	      </center></div>
+	    </form>
+	    </td>
+	  </tr>
+	</table>
+	}
+div#e7              {
+	position        : absolute;
+	left            : 258.75pt;
+	top             :2400.00pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+div#e6              {
+	position        : absolute;
+	left            : 258.75pt;
+	top             :2688.75pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+div#e5              {
+	position        : absolute;
+	left            : 258.75pt;
+	top             :2977.50pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+div#e4              {
+	position        : absolute;
+	left            : 258.75pt;
+	top             :3266.25pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+span#e3             { /* puzzlestext.gif */
+	background      : transparent url(puzzlestext.gif) no-repeat top left;
+	position        : absolute;
+	left            : 474.00pt;
+	top             : 134.25pt;
+	width           : 126.00pt;
+	height          : 119.25pt;
+	}
+div#e2              {
+	position        : absolute;
+	left            :   1.50pt;
+	top             : 381.00pt;
+	width           : 203.25pt;
+	height          :  33.75pt;
+	}
+img#e1              { /* z3.jpg */
+	position        : absolute;
+	left            :   3.75pt;
+	top             :3225.00pt;
+	width           : 240.00pt;
+	height          : 186.00pt;
+	}
+body#page           { /* Page Body */
+	background-color: #ffffff;
+	background-image: url(ztile1.jpg); background-repeat: repeat-x; <!--Web_Site_must_have_such_image-->
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

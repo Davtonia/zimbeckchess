@@ -1,0 +1,79 @@
+<table border="0" cellpadding="0">
+  <caption><strong>White to play and win</strong></caption>
+  <tr>
+    <td width="100%"><img src="a1.jpg" width="280" height="280" name="photoslider"></td>
+  </tr>
+  <tr>
+    <td width="100%"><form method="POST" name="rotater">
+      <div align="center"><center><p><script language="JavaScript1.1">
+var photos=new Array()
+var which=0
+
+/*Change the below variables to reference your own images. You may have as many images in the slider as you wish*/
+photos[0]="a1.jpg"
+photos[1]="a2.jpg"
+photos[2]="a3.jpg"
+photos[3]="a4.jpg"
+photos[4]="a5.jpg"
+photos[5]="a6.jpg"
+photos[6]="a7.jpg"
+photos[7]="a8.jpg"
+photos[8]="a9.jpg"
+photos[9]="a10.jpg"
+photos[10]="a11.jpg"
+photos[11]="a12.jpg"
+photos[12]="a13.jpg"
+photos[13]="a14.jpg"
+photos[14]="a15.jpg"
+photos[15]="a16.jpg"
+photos[16]="a17.jpg"
+photos[17]="a18.jpg"
+photos[18]="a19.jpg"
+photos[19]="a20.jpg"
+photos[20]="a21.jpg"
+photos[21]="a22.jpg"
+photos[22]="a23.jpg"
+photos[23]="a24.jpg"
+photos[24]="a25.jpg"
+photos[25]="a26.jpg"
+photos[26]="a27.jpg"
+photos[27]="a28.jpg"
+photos[28]="a29.jpg"
+photos[29]="a30.jpg"
+photos[30]="a31.jpg"
+photos[31]="a32.jpg"
+photos[32]="a33.jpg"
+photos[33]="a34.jpg"
+photos[34]="a35.jpg"
+photos[35]="a36.jpg"
+photos[36]="a37.jpg"
+photos[37]="a38.jpg"
+photos[38]="a39.jpg"
+photos[39]="a40.jpg"
+photos[40]="a41.jpg"
+photos[41]="a42.jpg"
+
+function backward(){
+if (which>0){
+window.status=''
+which--
+document.images.photoslider.src=photos[which]
+}
+}
+
+function forward(){
+if (which<photos.length-1){
+which++
+document.images.photoslider.src=photos[which]
+}
+else window.status='End of gallery'
+}
+</script><input type="button" value="&lt;&lt;Back" name="B2"
+      onClick="backward()"> <input type="button" value="Next&gt;&gt;" name="B1"
+      onClick="forward()"><br>
+      <a href="#" onClick="which=1;backward();return false"><small>Start Over</small></a></p>
+      </center></div>
+    </form>
+    </td>
+  </tr>
+</table>

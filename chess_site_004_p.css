@@ -1,0 +1,239 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc07               { /* Common */
+	border          :   0.00pt solid #000000;
+	}
+img#e30             { /* banner3.jpg */
+	position        : absolute;
+	left            :  84.75pt;
+	top             :   4.50pt;
+	width           : 490.50pt;
+	height          :  87.75pt;
+	}
+span#e29            { /* menu.jpg */
+	background      : transparent url(menu.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  94.50pt;
+	width           : 209.25pt;
+	height          : 288.00pt;
+	}
+img#e28             { /* samplepuzzles.jpg */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 119.25pt;
+	width           : 132.75pt;
+	height          :  18.00pt;
+	}
+img#e27             { /* centercounter.jpg */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 164.25pt;
+	width           : 172.50pt;
+	height          :  16.50pt;
+	}
+img#e26             { /* brentano.jpg */
+	position        : absolute;
+	left            :  16.50pt;
+	top             : 183.75pt;
+	width           : 115.50pt;
+	height          :  18.00pt;
+	}
+img#e25             { /* halloween.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 228.00pt;
+	width           : 124.50pt;
+	height          :  17.25pt;
+	}
+img#e24             { /* latvian.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 205.50pt;
+	width           : 167.25pt;
+	height          :  19.50pt;
+	}
+img#e23             { /* database.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 273.00pt;
+	width           : 105.75pt;
+	height          :  15.75pt;
+	}
+img#e22             { /* games.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 251.25pt;
+	width           :  89.25pt;
+	height          :  15.00pt;
+	}
+img#e21             { /* about.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 315.75pt;
+	width           :  80.25pt;
+	height          :  15.00pt;
+	}
+img#e20             { /* links.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 358.50pt;
+	width           :  42.75pt;
+	height          :  15.00pt;
+	}
+img#e19             { /* videos.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 337.50pt;
+	width           :  57.00pt;
+	height          :  15.00pt;
+	}
+img#e18             { /* books.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 294.75pt;
+	width           :  81.75pt;
+	height          :  14.25pt;
+	}
+img#e17             { /* diemer.jpg */
+	position        : absolute;
+	left            :  12.75pt;
+	top             : 140.25pt;
+	width           : 178.50pt;
+	height          :  18.75pt;
+	}
+span#e16            { /* centercounter2.jpg */
+	background      : transparent url(centercounter2.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 296.25pt;
+	top             : 576.00pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+span#e15            { /* centercounter3.jpg */
+	background      : transparent url(centercounter3.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 296.25pt;
+	top             :1099.50pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+span#e14            { /* centercounter5.jpg */
+	background      : transparent url(centercounter5.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 296.25pt;
+	top             :1830.00pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+span#e13            { /* centercountertext1.gif */
+	background      : transparent url(centercountertext1.gif) no-repeat top left;
+	position        : absolute;
+	left            : 215.25pt;
+	top             : 101.25pt;
+	width           : 186.75pt;
+	height          :  21.00pt;
+	}
+span#e12            { /* centercountertext2.gif */
+	background      : transparent url(centercountertext2.gif) no-repeat top left;
+	position        : absolute;
+	left            : 210.00pt;
+	top             : 341.25pt;
+	width           : 384.75pt;
+	height          : 234.00pt;
+	}
+img#e11             { /* diemertextdata.gif */
+	position        : absolute;
+	left            : 209.25pt;
+	top             : 383.25pt;
+	width           :  54.00pt;
+	height          :  13.50pt;
+	}
+span#e10            { /* chess_site004003.gif */
+	background      : transparent url(chess_site004003.gif) no-repeat top left;
+	position        : absolute;
+	left            : 172.50pt;
+	top             : 790.50pt;
+	width           : 427.50pt;
+	height          : 303.75pt;
+	}
+span#e9             { /* centercounter1.jpg */
+	background      : transparent url(centercounter1.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 215.25pt;
+	top             : 123.75pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+span#e8             { /* chess_site004002.gif */
+	background      : transparent url(chess_site004002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 172.50pt;
+	top             :1315.50pt;
+	width           : 427.50pt;
+	height          : 303.75pt;
+	}
+span#e7             { /* centercountertext5.gif */
+	background      : transparent url(centercountertext5.gif) no-repeat top left;
+	position        : absolute;
+	left            : 169.50pt;
+	top             :1739.25pt;
+	width           : 421.50pt;
+	height          :  89.25pt;
+	}
+span#e6             { /* centercounter4.jpg */
+	background      : transparent url(centercounter4.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 318.75pt;
+	top             :1629.00pt;
+	width           : 105.00pt;
+	height          : 105.00pt;
+	}
+span#e5             { /* centercounter6.jpg */
+	background      : transparent url(centercounter6.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 318.75pt;
+	top             :2331.75pt;
+	width           : 105.00pt;
+	height          : 105.00pt;
+	}
+span#e4             { /* chess_site004001.gif */
+	background      : transparent url(chess_site004001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 171.75pt;
+	top             :2046.00pt;
+	width           : 428.25pt;
+	height          : 280.50pt;
+	}
+span#e3             { /* centercountertext7.gif */
+	background      : transparent url(centercountertext7.gif) no-repeat top left;
+	position        : absolute;
+	left            : 169.50pt;
+	top             :2450.25pt;
+	width           : 430.50pt;
+	height          : 211.50pt;
+	}
+div#e2              {
+	position        : absolute;
+	left            :   1.50pt;
+	top             : 381.00pt;
+	width           : 203.25pt;
+	height          :  33.75pt;
+	}
+img#e1              { /* zdemo.jpg */
+	position        : absolute;
+	left            : 430.50pt;
+	top             : 184.50pt;
+	width           : 163.50pt;
+	height          :  87.75pt;
+	}
+body#page           { /* Page Body */
+	background-color: #ffffff;
+	background-image: url(ztile1.jpg); background-repeat: repeat-x; <!--Web_Site_must_have_such_image-->
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

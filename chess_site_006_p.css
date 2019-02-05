@@ -1,0 +1,176 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc10               { /* Common */
+	border          :   0.00pt solid #000000;
+	}
+img#e22             { /* banner3.jpg */
+	position        : absolute;
+	left            :  84.75pt;
+	top             :   4.50pt;
+	width           : 490.50pt;
+	height          :  87.75pt;
+	}
+span#e21            { /* menu.jpg */
+	background      : transparent url(menu.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  94.50pt;
+	width           : 209.25pt;
+	height          : 288.00pt;
+	}
+img#e20             { /* samplepuzzles.jpg */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 119.25pt;
+	width           : 132.75pt;
+	height          :  18.00pt;
+	}
+img#e19             { /* centercounter.jpg */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 164.25pt;
+	width           : 172.50pt;
+	height          :  16.50pt;
+	}
+img#e18             { /* brentano.jpg */
+	position        : absolute;
+	left            :  16.50pt;
+	top             : 183.75pt;
+	width           : 115.50pt;
+	height          :  18.00pt;
+	}
+img#e17             { /* halloween.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 228.00pt;
+	width           : 124.50pt;
+	height          :  17.25pt;
+	}
+img#e16             { /* latvian.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 205.50pt;
+	width           : 167.25pt;
+	height          :  19.50pt;
+	}
+img#e15             { /* database.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 273.00pt;
+	width           : 105.75pt;
+	height          :  15.75pt;
+	}
+img#e14             { /* games.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 251.25pt;
+	width           :  89.25pt;
+	height          :  15.00pt;
+	}
+img#e13             { /* about.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 315.75pt;
+	width           :  80.25pt;
+	height          :  15.00pt;
+	}
+img#e12             { /* links.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 358.50pt;
+	width           :  42.75pt;
+	height          :  15.00pt;
+	}
+img#e11             { /* videos.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 337.50pt;
+	width           :  57.00pt;
+	height          :  15.00pt;
+	}
+img#e10             { /* books.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 294.75pt;
+	width           :  81.75pt;
+	height          :  14.25pt;
+	}
+img#e9              { /* diemer.jpg */
+	position        : absolute;
+	left            :  12.75pt;
+	top             : 140.25pt;
+	width           : 178.50pt;
+	height          :  18.75pt;
+	}
+span#e8             { /* latvian2.jpg */
+	background      : transparent url(latvian2.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 216.00pt;
+	top             : 123.75pt;
+	width           : 210.00pt;
+	height          : 210.00pt;
+	}
+span#e7             { /* latviantext.gif */
+	background      : transparent url(latviantext.gif) no-repeat top left;
+	position        : absolute;
+	left            : 216.00pt;
+	top             : 103.50pt;
+	width           : 105.00pt;
+	height          :  18.75pt;
+	}
+span#e6             { /* chess_site006002.gif */
+	background      : transparent url(chess_site006002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 207.75pt;
+	top             : 341.25pt;
+	width           : 392.25pt;
+	height          : 387.00pt;
+	}
+span#e5             { /* chess_site006001.gif */
+	background      : transparent url(chess_site006001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 205.50pt;
+	top             : 858.00pt;
+	width           : 394.50pt;
+	height          : 319.50pt;
+	}
+span#e4             { /* latvian3.jpg */
+	background      : transparent url(latvian3.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 343.50pt;
+	top             : 969.00pt;
+	width           : 105.00pt;
+	height          : 105.00pt;
+	}
+span#e3             { /* latvian1.jpg */
+	background      : transparent url(latvian1.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 343.50pt;
+	top             : 739.50pt;
+	width           : 105.00pt;
+	height          : 105.00pt;
+	}
+div#e2              {
+	position        : absolute;
+	left            :   1.50pt;
+	top             : 381.00pt;
+	width           : 203.25pt;
+	height          :  33.75pt;
+	}
+img#e1              { /* zdemo.jpg */
+	position        : absolute;
+	left            : 430.50pt;
+	top             : 184.50pt;
+	width           : 163.50pt;
+	height          :  87.75pt;
+	}
+body#page           { /* Page Body */
+	background-color: #ffffff;
+	background-image: url(ztile1.jpg); background-repeat: repeat-x; <!--Web_Site_must_have_such_image-->
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

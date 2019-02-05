@@ -1,0 +1,171 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc13               { /* Common */
+	border          :   0.00pt solid #000000;
+	}
+span#e22            { /* chess_site008001.gif */
+	background      : transparent url(chess_site008001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 210.00pt;
+	top             :  98.25pt;
+	width           : 390.00pt;
+	height          : 408.75pt;
+	}
+img#e21             { /* banner3.jpg */
+	position        : absolute;
+	left            :  84.75pt;
+	top             :   4.50pt;
+	width           : 490.50pt;
+	height          :  87.75pt;
+	}
+span#e20            { /* menu.jpg */
+	background      : transparent url(menu.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  94.50pt;
+	width           : 209.25pt;
+	height          : 288.00pt;
+	}
+img#e19             { /* samplepuzzles.jpg */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 119.25pt;
+	width           : 132.75pt;
+	height          :  18.00pt;
+	}
+img#e18             { /* centercounter.jpg */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 164.25pt;
+	width           : 172.50pt;
+	height          :  16.50pt;
+	}
+img#e17             { /* brentano.jpg */
+	position        : absolute;
+	left            :  16.50pt;
+	top             : 183.75pt;
+	width           : 115.50pt;
+	height          :  18.00pt;
+	}
+img#e16             { /* halloween.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 228.00pt;
+	width           : 124.50pt;
+	height          :  17.25pt;
+	}
+img#e15             { /* latvian.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 205.50pt;
+	width           : 167.25pt;
+	height          :  19.50pt;
+	}
+img#e14             { /* database.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 273.00pt;
+	width           : 105.75pt;
+	height          :  15.75pt;
+	}
+img#e13             { /* games.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 251.25pt;
+	width           :  89.25pt;
+	height          :  15.00pt;
+	}
+img#e12             { /* about.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 315.75pt;
+	width           :  80.25pt;
+	height          :  15.00pt;
+	}
+img#e11             { /* links.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 358.50pt;
+	width           :  42.75pt;
+	height          :  15.00pt;
+	}
+img#e10             { /* videos.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 337.50pt;
+	width           :  57.00pt;
+	height          :  15.00pt;
+	}
+img#e9              { /* books.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 294.75pt;
+	width           :  81.75pt;
+	height          :  14.25pt;
+	}
+img#e8              { /* diemer.jpg */
+	position        : absolute;
+	left            :  12.75pt;
+	top             : 140.25pt;
+	width           : 178.50pt;
+	height          :  18.75pt;
+	}
+div#e7              {
+	position        : absolute;
+	left            : 454.50pt;
+	top             : 321.00pt;
+	width           :  81.00pt;
+	height          :  32.25pt;
+	}
+div#e6              {
+	position        : absolute;
+	left            : 370.50pt;
+	top             : 405.75pt;
+	width           :  66.75pt;
+	height          :  20.25pt;
+	}
+div#e5              {
+	position        : absolute;
+	left            : 370.50pt;
+	top             : 378.00pt;
+	width           :  66.75pt;
+	height          :  20.25pt;
+	}
+div#e4              {
+	position        : absolute;
+	left            : 370.50pt;
+	top             : 432.00pt;
+	width           :  66.75pt;
+	height          :  20.25pt;
+	}
+div#e3              {
+	position        : absolute;
+	left            : 370.50pt;
+	top             : 459.00pt;
+	width           :  66.75pt;
+	height          :  19.50pt;
+	}
+div#e2              {
+	position        : absolute;
+	left            : 370.50pt;
+	top             : 486.75pt;
+	width           :  66.75pt;
+	height          :  20.25pt;
+	}
+div#e1              {
+	position        : absolute;
+	left            :   1.50pt;
+	top             : 381.00pt;
+	width           : 203.25pt;
+	height          :  33.75pt;
+	}
+body#page           { /* Page Body */
+	background-color: #ffffff;
+	background-image: url(ztile1.jpg); background-repeat: repeat-x; <!--Web_Site_must_have_such_image-->
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/
